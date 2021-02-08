@@ -1,4 +1,4 @@
-~~~~b eliminator 屏极电源整流
+~~~~
 back bias 反偏压
 back biased diode 反偏二极管
 back bonding 倒装键合
