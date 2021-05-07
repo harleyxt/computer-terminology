@@ -87,3 +87,166 @@ electroacoustic transducer 电声换能器
 electrochemical deposition 电化学淀积
 electrochemical grinding 电化学研磨
 electrode 电极
+electrode geometry 电极几何形状
+electrode separation 电极间距
+electrode spacing 电极间距
+electrodeless discharge 无电极放电
+electrodeposition 电解沉积
+electroendosmosis 电渗
+electroerosion machining 电腐蚀加工
+electroetching 电蚀刻
+electroless deposition 化学淀积
+electroless plating 化学淀积
+electroless processing 化学淀积
+electroluminescence 电致发光
+electroluminescent display 场致发光显示器
+electroluminescent element 场致发光元件
+electroluminescent faceplate 电发光荧光屏
+electroluminescent screen 电发光荧光屏
+electrolysis 电解
+electrolyte semiconductor junction 电解质 半导体结
+electrolytic anodization 电解阳极氧化
+electrolytic bath 电解槽
+electrolytic deposition 电解沉积
+electrolytic etching 电解腐蚀
+electrolytic grinding 电解磨削
+electrolytic ionization 电解电离
+electrolytic oxidation 电解氧化
+electrolytic polishing 电解抛光
+electromagnet 电磁铁
+electromagnetic lens 电磁透镜
+electromagnetic microphone 电磁微音器电磁传声器
+electromagnetic pickup 电磁拾音器
+electromagnetic receiver 电磁式受话器
+electromagnetic scrub 电磁清洗
+electromicrometer 电子测微计
+electromicrometry 电子测微法
+electromigration immunity 电迁移耐力
+electromigration resistance 电迁移耐力
+electron 电子
+electron accelerator 电子加速器
+electron affinity 电子亲和力
+electron beam 电子束
+electron beam aligner 电子束曝光器
+electron beam alignment 电子束对准
+electron beam annealer 电子束退火装置
+electron beam annealing 电子束退火
+electron beam bonding 电子束焊接
+electron beam deposition 电子束沉积
+electron beam device 电子束装置
+electron beam direct write on wafer system 薄片上电子束直接绘图系统
+electron beam evaporation 电子束蒸发
+electron beam evaporator 电子束蒸发器
+electron beam exposer 电子束曝光器
+electron beam exposure 电子束曝光
+electron beam exposure system 电子束曝光器
+electron beam generated mask 电子束技术制造的掩模
+electron beam heating 电子束加热
+electron beam image repeater 电子束步进重复照相机
+electron beam imaging 电子束成象
+electron beam lithography 电子束蚀刻
+electron beam mask 电子束掩膜
+electron beam mask generator 电子束掩模图象发生器
+electron beam mask system 电子束掩模制造系统
+electron beam metalization 电子束金属化
+electron beam pattern writer 电子束绘图机
+electron beam patterning 电子束成象
+electron beam printing 电子束蚀刻
+electron beam probe 电子束探针
+electron beam probing 电子束探测
+electron beam processing 电子束加工
+electron beam projection 电子束投影
+electron beam projector 电子枪
+electron beam pumped laser 电子束抽运激光器
+electron beam recording 电子束记录
+electron beam resist 电子束抗蚀剂
+electron beam reticle 电子束掩膜
+electron beam technology 电子束工艺
+electron beam tube 电子射线管
+electron beam welding 电子束焊接
+electron beam writing 电子束成象
+electron bombardment 电子轰击
+electron bunch 电子聚束
+electron chrome mask 电子束光刻用铬掩模
+electron collector 电子显微镜的集电极
+electron conduction 电子导电
+electron continuity equation 电子连续性方程
+electron cooling 电子冷却
+electron coupled oscillator 电子耦合振荡器
+electron coupling 电子耦合
+electron current 电子电流
+electron cyclotron 电子回旋加速器
+electron density 电子密度
+electron device 电子掐
+electron diffraction 电子衍射
+electron diffusion length 电子扩散长度
+electron discharge machining 电子放电加工
+electron display tube 电子显示管
+electron drift 电子漂移
+electron emission 电子发射
+electron emitter 电子发射体
+electron envelope 电子壳层
+electron gas 电子气
+electron gun 电子枪
+electron hole avalanche 电子 空穴雪崩
+electron hole pair 电子空穴对
+electron hole pair generation 电子空穴对发生
+electron hole recombination 电子 空穴复合
+electron hole scatter 电子 空穴散射
+electron image projection 电子图象投影
+electron image projector 电子投影装置
+electron impact 电子轰击
+electron injection 电子注入
+electron injector 电子注射器
+electron ion recombination 电子 离子复合
+electron irradiated silicon 电子束照射硅
+electron irradiation 电子辐照
+electron lens 电子透镜
+electron linear accelerator 电子直线加速器
+electron microprobe 电子探针
+electron microscope 电子显微镜
+electron multiplier 电子倍增器
+electron optical image converter 电子光学图象转换器
+electron optical system 电子光学系统
+electron optics 电子光学
+electron pair 电子偶
+electron physics 电子物理学
+electron polarization 电子极化
+electron population 电子布居
+electron ray indicator tube 电子射线指示管
+electron resist 电子束抗蚀剂
+electron scattering 电子散逸
+electron sensitive emulsion 电子灵敏乳胶
+electron sensitive resist 电子束抗蚀剂
+electron shell 电子壳层
+electron source 电子源
+electron spin 电子自旋
+electron spin resonance 电子自旋共振
+electron switch 电子开关
+electron synchrotron 电子同步加速器
+electron technology 电子技术
+electron theory 电子论
+electron trajectory 电子轨道
+electron transition 电子跃迁
+electron trap 电子陷阱
+electron tube 电子管
+electron tunneling 电子隧道效应
+electron vacancy 电子空位
+electron valve 电子管
+electron velocity 电子速度
+electronic 电子的
+electronic bionics 电子仿生学
+electronic component 电子线路元件
+electronic computer 电子计算机
+electronic conductivity 电子电导率
+electronic control 电子控制
+electronic counter 电子计数器
+electronic display 电子显示
+electronic efficiency 电子效率
+electronic engineering 电子工程学
+electronic grade chemical 电子工业纯度级化学试剂
+electronic grade gas 电子工业纯度级气体
+electronic grade solvent 电子工业纯度级溶剂
+electronic grade water 电子工业纯度级水
+electronic instrument 电子系仪表
+electronic mail 电子函政
