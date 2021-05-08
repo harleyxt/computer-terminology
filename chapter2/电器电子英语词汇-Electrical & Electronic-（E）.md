@@ -250,3 +250,138 @@ electronic grade solvent 电子工业纯度级溶剂
 electronic grade water 电子工业纯度级水
 electronic instrument 电子系仪表
 electronic mail 电子函政
+electronic microwave tube 微波电子管
+electronic organ 电子琴
+electronic rectifier 电子整流
+electronic scanning 电子扫描
+electronic semiconductor 电子半导体
+electronic shutter 电子快门
+electronic spectroscope 电子分光镜
+electronic switch 电子开关
+electronic switching 电子开关
+electronic tuning 电子党
+electronics 电子学
+electronimage 电子图象
+electronmirror 电子镜
+electrooptical deflector 电光偏转器
+electrooptical effect 电光效应
+electrooptical modulator 电光灯器
+electrooptical q switch 电光 q 开关
+electrooptical shutter 电光快门
+electrooptical technology 光电技术
+electrooptics 电光学
+electroosmosis 电渗
+electroplating 电解沉积
+electropolishing 电解抛光
+electrorheograph 电流
+electrostatic accelerater 静电加速器
+electrostatic charge 静电电荷
+electrostatic deflection 静电偏转
+electrostatic discharge 静电放电
+electrostatic elimination 静电消除
+electrostatic field 静电场
+electrostatic focusing 静电聚焦
+electrostatic lens 静电透镜
+electrostatic receiver 静电式受话器
+electrostatic wafer chuck 静电薄片夹头
+electrostatical loudspeaker 静电扬声器
+electrotinning 电镀锡
+element 元件
+element density 元件密度
+element redundancy 元件冗余
+elemental semiconductor 元素半导体
+elementary charge 基本电荷
+elementary mos device 分立金属氧化物半导体掐
+elevated duct 架空管道
+elevation accuracy 仰角精度
+ellipsometer 椭圆计
+elliptic polarization 椭圆偏振
+elliptical fiber 椭圆型纤维
+elliptical waveguide 椭圆波导
+elliptically polarized light 椭圆偏振光
+elliptically polarized wave 椭圆偏振波
+ellipticity 椭圆率
+elongation 延长
+elsi 特大规模集成
+emergency call 紧急呼叫
+emesfet 增强型肖特基势垒场效应晶体管
+emfet 增强型场效应晶体管
+emission 发射
+emission band 发射光谱带
+emission efficiency 发射效率;放射效率
+emission line 发射谱线
+emission linewidth 辐射谱线宽度
+emission transition 辐射跃迁
+emissive power 发射能力
+emissivity 发射能力
+emitted electron 放出电子
+emitted light 发射光
+emitter 发射极
+emitter base diode 发射极 基极二极管
+emitter base junction 发射极 基极结
+emitter bias 射极偏压
+emitter branch 发射极支路
+emitter coupled logic 射极耦合逻辑
+emitter coupled logic gate 射极耦合逻辑门
+emitter current 发射极电流
+emitter diffusion 发射极扩散
+emitter diffusion opening 发射极扩散窗
+emitter dip 发射极陷落
+emitter electrode 发射电极
+emitter follower 射极跟随器
+emitter follower input 输入射极跟随器
+emitter follower logic 射极跟随七辑
+emitter function logic 射极功能逻辑
+emitter impurity concentration 发射区杂质浓度
+emitter ion implantation 发射区离子注入
+emitter mask 发射极掩模
+emitter push 发射极陷落
+emitter region 发射极区
+emitter terminal 发射极端子
+emitting antenna 发射天线
+emitting diode 发光二极管
+emitting layer 放射层
+emitting surface 放射面
+emos 增强型金属氧化物半导体场效应晶体管
+emosfet 增强型金属氧化物半导体场效应晶体管
+emphasizer 加重器
+empty band 空带
+empty level 空能级
+emulsifier 乳化剂
+emulsion 感光乳胶
+emulsion build up 乳胶层加厚
+emulsion mask 乳胶光掩模
+emulsion mask pattern 乳胶掩模图形
+emulsion photomask 乳胶光掩模
+emulsion plate 乳胶光掩模
+enable 充讦操作
+enable pulse 启动脉冲
+enabling pulse 启动脉冲
+encapsulant 密封剂
+encapsulated component 封装元件
+encapsulated hybrid 封装混合电路
+encapsulated integrated circuit 封装集成电路
+encapsulation 密封
+encapsulation mold 封装用塑模
+enclosure 外壳
+encoder 编码器号码机
+encoder system 编码系统
+encoding 编码
+end capacitance 终局容量
+end effect 边缘效应
+end point 终点
+end point detection 终点检测
+endodyne 自差
+endotron 振荡管
+endurance 强度
+energy 能量
+energy absorption 能量吸收
+energy balance 能量平衡
+energy band 能带
+energy band structure 能带结构
+energy barrier 能量垒
+energy density 能量密度
+energy distribution 能量分布
+energy flow 能流
+energy gap 禁带宽度
+energy level 能级
