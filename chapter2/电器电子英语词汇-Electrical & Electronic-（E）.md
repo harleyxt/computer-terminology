@@ -385,3 +385,169 @@ energy distribution 能量分布
 energy flow 能流
 energy gap 禁带宽度
 energy level 能级
+energy level diagram 能级图
+energy level difference 能级差
+energy loss 能量损耗
+energy of a quantum 量子能量
+energy of plasma 等离子体能量
+energy output 输出能量
+energy pulse bonding 脉冲焊
+energy resolution 能量分辨率
+energy spectrum 能谱
+energy state 能量状态
+energy supply 电源
+energy transfer 能量转移
+engaged 占线的
+engaged line 占线
+engaged signal 占线信号
+engaged test 占线测试
+engineering 工程
+engineering reliabilty 工程可靠性
+engraving 雕刻
+enhanced diffusion 增强扩散
+enhancement 增强
+enhancement channel 增强型沟道
+enhancement depletion mos 增强型 耗尽型模式金属氧化物半导体
+enhancement mode 增强型
+enhancement mode fet 增强型场效应晶体管
+enhancement mode fet integrated circuit 增强型场效应晶体管集成电路
+enhancement mode junction fet 增强型结式场效应晶体管
+enhancement mode operation 增强型动作
+enhancement mos 增强型金属氧化物半导体场效应晶体管
+enhancement type schottky barrier fet 增强型肖特基势垒场效应晶体管
+ensemble 组
+entropy 熵
+envelope 外壳
+envelope delay 群时延
+envelope detector 包络检波器
+environment 环境
+environment cabinet 人造环境室
+environment chamber 人造环境室
+environmental contamination 环境污染
+environmental handler 环境控制器
+environmental test 环境试验
+epi 外延层
+epi island 外延岛
+epic 外延钝化集成电路
+epic approach 外延钝化集成电路方法
+epifilm 外延膜
+epilayer 外延层
+epiplanar device 外延平面掐
+epiplanar technology 外延平面工艺
+epitaxial body 外延衬底
+epitaxial collector 外延集电极
+epitaxial cvd 外延化学汽相淀积
+epitaxial deposition 外延淀积
+epitaxial edge grown 外延层边缘生长
+epitaxial film 外延膜
+epitaxial furnace 外延生长炉
+epitaxial growth 外延生长
+epitaxial integrated circuit 外延集成电路
+epitaxial junction 外延结
+epitaxial layer 外延层
+epitaxial passivated integrated circuit 外延钝化集成电路
+epitaxial planar transistor 外延平面晶体管
+epitaxial pocket 外延阱区
+epitaxial reactor 外延生长炉
+epitaxial region 外延区
+epitaxial regrowth 外延层再生长
+epitaxial slice 外延生长薄片
+epitaxial solution 外延溶液
+epitaxial spike 外延层凸起部分
+epitaxial substrate film 外延衬底膜
+epitaxial transistor 外延型晶体管
+epitaxial wafer 外延生长薄片
+epitaxially grown film 外延膜
+epitaxially grown junction 外延结
+epitaxy 外延
+epoxy 环氧尸
+epoxy adhesive 环氧尸粘合剂
+epoxy coating 环氧尸涂层
+epoxy cure 环氧尸硬化
+epoxy die attachment 环氧尸芯片粘合
+epoxy die bonder 环氧矢芯片接合器
+epoxy dispenser 环氧尸配量器
+epoxy dispensing system 环氧尸配量器
+epoxy encapsulant 环氧尸密封剂
+epoxy encapsulation 环氧尸密封
+epoxy glass 环氧玻璃
+epoxy hardener 环氧尸硬化剂
+epoxy laminate 环氧迭层片
+epoxy molding 环氧尸模制
+epoxy package 环氧尸外壳
+epoxy potting 环氧尸密封
+epoxy sealing 环氧尸密封
+eprom 电可编程序只读存储器
+equalization 均衡
+equalizer 均衡器
+equalizing pulse 平衡脉冲
+equi energy spectrum 等能量谱
+equilibrium 平衡
+equilibrium carrier 平衡载劣
+equilibrium carrier density 平衡载劣密度
+equilibrium conditions 平衡条件
+equilibrium diagram 平衡状态图
+equilibrium energy 平衡能量
+equilibrium orbit 平衡轨道
+equilibrium phase 平衡相
+equilibrium state 平衡状态
+equilibrium value 平衡值
+equiphase zone 等相位区
+equisignal line 等信号线
+equisignal radio beacon 等信号无线电信标
+equisignal zone 等信号区
+equivalant resistance 等效电阻
+equivalent circuit 等效电路
+equivalent gate 等效门
+equivalent gate complexity 等效门复杂度
+erasable programmed read only memory 可擦可编程序只读存储器
+erasing 取消
+erasing head 消磁头
+erasing speed 擦去速度
+erlang 厄兰
+erlangmeter 厄兰计
+erratic doping 不规则掺杂
+error 误差
+error constant 系统错误
+error correcting 误差校正
+error correcting code 错误校正码
+error correction 误差校正
+error function diffusion 误差函数扩散
+error function distribution 误差函数分布
+error rate 故障率
+error signal 误差信号
+esaki effect 江崎效应
+esaki junction 江崎结
+esbt 增强型肖特基势垒场效应晶体管
+esd 静电放电
+etch 腐蚀
+etch bath 腐蚀槽
+etch depth 腐蚀深度
+etch end point 腐蚀终点
+etch factor 腐蚀系数
+etch figure 蚀刻图形
+etch moat 腐蚀槽
+etch out backfill isolation 腐蚀 反填充隔离
+etch pit 腐蚀坑
+etch polishing 腐蚀抛光
+etch profile 腐蚀断面图
+etch rate 腐蚀速率
+etch ratio 腐蚀速度比
+etch removal 腐蚀除去
+etch resistant layer 抗腐蚀层
+etch response 腐蚀灵敏度
+etch rinse processor 薄片腐蚀 冲洗装置
+etch stop layer 腐蚀停止层
+etch tank 腐蚀槽
+etch taper 腐蚀锥度
+etch trench 腐蚀槽
+etchant 蚀刻剂
+etchant gas 腐蚀气体
+etchant regeneration system 腐蚀剂再生装置
+etchant solution 腐蚀溶液
+etched mesa 腐蚀台面
+etched pattern 蚀刻图形
+etched printed circuit 浸蚀法印刷电路
+etched surface 腐蚀面
+etcher 腐蚀器
+etching 腐蚀
