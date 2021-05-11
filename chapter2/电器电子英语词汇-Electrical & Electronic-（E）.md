@@ -551,3 +551,114 @@ etched printed circuit 浸蚀法印刷电路
 etched surface 腐蚀面
 etcher 腐蚀器
 etching 腐蚀
+etching agent 蚀刻剂
+etching anisotropy 腐蚀蛤异性
+etching bias 腐蚀锥度
+etching chemical 蚀刻剂
+etching gas mixture 腐蚀用气体混合物
+etching mask 腐蚀掩模
+etching reactor 腐蚀反应器
+etching test 蚀刻试验
+eureka 欧锐卡
+eutectic alloy 共晶合金
+eutectic brazing 共晶软钎焊
+eutectic coverage 共晶合金覆盖
+eutectic die attachment 共晶芯片连接
+eutectic die bonder 共晶芯片焊接装置
+eutectic preform 共晶合金盘料
+eutectic solder 易熔质焊料
+eutectic vibration brazing 共晶合金振动钎焊法
+evacuated chamber 真空室
+evacuated display tube 真空显示管
+evacuation 排气
+evacuation rate 抽气速度
+evaporant 蒸发剂
+evaporated bump 蒸发的隆起焊盘
+evaporation 蒸发
+evaporation chamber 蒸发室
+evaporation charge 蒸发装料
+evaporation coating 蒸发镀膜
+evaporation source 蒸发源
+evaporator 蒸发装置
+even harmonic 偶次谐波
+exact registration 精密对准
+exactitude 准俑
+exactness 准俑
+exception handling 异常处理
+excess carrier 过剩载劣
+excess density 过量密度
+excess holes 过剩空穴
+excessiveness 冗余
+exchange 交换
+exchange area 电话交换区
+exchange busy hour 电话局忙时
+exchange energy 交换能量
+excimer laser 准分子激光器
+excimer laser etching 准分子激光腐蚀
+excising 切割
+excising lead former 链式带芯片切割/引线成形机
+excitation 激励
+excitation anode 激励阳极
+excitation collision 激发碰撞
+excitation conditions 激发条件
+excitation cross section 激发截面
+excitation level 激发能级
+excitation luminescence 激励发光
+excitation probability 激发概率
+excitation radiation 激发辐射
+excitation threshold 激励阈值
+excitation time 激励时间
+excitation voltage 激励电压
+excited atom 受激原子
+excited level 受激能级
+excited molecule 受激分子
+excited state 激励状态
+excited state lifetime 激发状态寿命
+excited wave 受激波
+exciter 激励器
+exciting current 励磁电流激励电流
+exciting field 激励场
+exciting light 激发光
+exciton 激发子
+excitron 激励管
+exhaustion 排气
+exhaustion rate 抽气速度
+expandable gate 可扩展门电路
+expander 扩展器膨胀器
+expansion 扩展
+expansion coefficient 膨胀系数
+expansion ratio 膨胀系数
+expected life 预估寿命
+expert system on a chip 专家系统芯片
+explosion 爆发
+exposed film 曝露的膜
+exposed region 曝露区
+exposed surface 曝露面
+exposer 曝光器
+exposing radiation 曝光辐射
+exposure 曝光
+exposure dose 照射剂量
+exposure field 辐照场
+exposure meter 曝光计
+exposure monitor 曝光计
+exposure source 曝光辐射源
+exposure wavelength 曝光辐射波长
+extension 扩展
+extension telephone 电话分机
+exterior antenna 室外天线
+external component 外元件
+external memory 外存储器
+external modulation 外部灯
+external photoelectric effect 外部光电效应
+extinction 消光
+extra high pressure discharge 超高压放电
+extra high vacuum 超高真空
+extra large scale integration 特大规模集成
+extranuclear electron 核外电子
+extraordinary beam 非常光线
+extraordinary ray 非常光线
+extraordinary wave 异常波
+extrinsic conduction 杂质导电
+extrinsic conductivity 非本甄导率
+extrinsic properties 非本赵质
+extrinsic semiconductor 含杂质半导体
