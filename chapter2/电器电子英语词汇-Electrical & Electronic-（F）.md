@@ -237,4 +237,138 @@ fine geometry mask 细致几何形状掩模
 fine grain 细粒
 fine leak 微弱漏
 fine line 细线
+fine line definition 精细线形成
+fine line emulsion 高分辨力乳胶
+fine line geometry 精细线几何尺寸
+fine line integrated circuit 精细线集成电路
+fine line lithography 细线光刻
+fine line metallization 精细线金属化
+fine line pattern 精细线图形
+fine line resolution 细线分辨力
+fine linewidth pattern 精细线图形
+fine link mask 细致几何形状掩模
+fine pattern fabrication 精细图案制造
+fine pattern geometry 精细线几何尺寸
+fine pattern integrated circuit 精细线集成电路
+fine pattern printing 细线光刻
+fine registration 精密对准
+fine tuning 细调
+finger 梳形物
+finger gate 梳状栅
+finish 精加工
+finish machining 最后加工
+finishing groove 精加工槽
+finned heat sink 翅式散热片
+fip 固定互连图像
+fipos 多孔氧化硅完全隔离
+firing 点火
+firing profile 烧结温度分布图
+firing temperature 烧成温度
+firmware building block 固件构成分程序
+first anode 第一阳极
+fissure 微裂纹
+fitting 匹配
+five unit code 五单位制电码
+fixed aerial 固定天线
+fixed antenna 固定天线
+fixed attenuator 固定衰减器
+fixed capacitor 固定电容器
+fixed carrier 固定载劣
+fixed charge 固定电荷
+fixed echo 固定目标的回波
+fixed error 系统错误
+fixed frequency 标定频率
+fixed frequency cyclotron 固定频率回旋加速器
+fixed frequency laser 固定频率激光器
+fixed grid 固定格栅
+fixed interconnection pattern 固定互连图像
+fixed interconnection pattern approach 固定互连图像方法
+fixed interconnections 固定布线
+fixed pattern metallization 固定图案金属化
+fixed programming 固定程序设计
+fixed resistor 固定电阻器
+fixed service 定点通信业务
+fixed target 固定目标
+fixed wiring 固定布线
+fixing 固定
+fixture 安装用具
+fl prom 熔丝连接可编程序只读存储器
+flag 标志
+flame excitation 火焰激发
+flame spectrum 火焰光谱
+flange coupling 法兰连接
+flap attenuator 刀型衰减器
+flash 闪光
+flash compression 爆炸压缩
+flash duration 闪光持续时间
+flash evaporation 快速蒸发
+flash evaporator 闪蒸蒸发器
+flash getter 蒸发吸气剂
+flash point 闪点
+flash test 高压绝缘试验
+flash tube 闪光管
+flashlamp 闪光灯
+flashtube 闪光灯
+flat band 平带
+flat cable 带状电缆
+flat mirror 平面镜
+flat pack 扁平管壳
+flat pack assembler 扁平封装装置
+flat pack integrated circuit 扁平封装集成电路
+flat package 扁平管壳
+flat panel display device 平面显示掐
+flat top aerial 平顶天线
+flat top antenna 平顶天线
+flat tuning 粗调平直党
+flating potential grid 自由栅极
+flatness checker 平面度检测器
+flaw 裂纹
+fleming valve 佛莱铭管
+flexibility 柔顺性
+flexible carrier 软性载体
+flexible coupling 弹性连接
+flexible machining system 灵活加工系统
+flexible printed circuit 软性印制电路
+flexible programming 软程序设计
+flexible waveguide 可弯曲波导管
+flicker 闪烁
+flicker effect 闪变效应
+flicker frequency 闪烁频率
+flicker noise 闪变噪声
+flight simulator 飞行摸拟器
+flip chip 倒装芯片
+flip chip approach 倒装法
+flip chip bonder 倒装焊接机
+flip chip bonding 倒装焊接
+flip chip bump 倒装芯片隆起焊盘
+flip chip carrier 倒装芯片座
+flip chip integrated circuit 倒装芯片集成电路
+flip chip method 倒装法
+flip flop 触发电路
+flip flop circuit 触发电路
+float zone crystal 浮区熔化晶体
+float zone growth 浮区生长
+float zone method 浮区提纯法
+floated 浮动的
+floating 浮动的
+floating crucible technique 浮置坩埚技术
+floating gate 浮置栅极
+floating gate avalanche injection mos 浮栅雪崩注入型金属氧化物半导体
+floating gate fet 浮栅场效应晶体管
+floating gate ic 浮栅集成电路
+floating gate mos 浮栅金属氧化物半导体
+floating gate silicon process 浮栅硅金属氧化物半导体工艺
+floating gate transistor 浮栅金属氧化物半导体晶体管
+floating grid 自由栅极
+floating island 浮岛
+floating junction 浮动结
+floating point calculation 浮动小数点运算
+floating zone melting 浮区熔化
+floating zone refining 浮区提纯
+floating zone silicon 浮区熔化硅
+floating zone techique 浮区提纯法
+floating zone technique 浮区提纯技术
+flood exposure 整片曝光
+floor planning 元件平面布置
+flow 流
 
