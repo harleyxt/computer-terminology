@@ -371,4 +371,285 @@ floating zone technique 浮区提纯技术
 flood exposure 整片曝光
 floor planning 元件平面布置
 flow 流
-
+flow of electrons 电子流
+flow soldering 射粮接
+flow temperature 怜温度
+flowing gas laser 气两激光器
+fluctuating signal 起伏信号
+fluctuation noise 起伏噪声
+fluctuations 起伏现象
+fluid free vacuum 无油真空
+fluid sensor 铃传感器
+fluidity 怜性
+fluidized bed coating 怜层涂法
+fluidized bed packaging 怜层密封
+fluorescence spectrum 荧光光谱
+fluorescent lamp 荧光灯
+fluorescent screen 荧光屏
+fluorite 萤石
+flusher 冲洗器
+flutter 颤动;电视图象的颤动现象
+flutter effect 颤动效应
+flux 焊剂
+flux free bonding 无焊药焊接
+flux free soldering 无焊药焊接
+fluxer 焊剂涂敷器
+fluxing agent 焊剂
+flyback 光的回程
+flyback blanking 逆程消隐
+flying spot scanner 飞点扫描器
+flying spot scanning 飞点扫描法
+flywheel synchronization 飞轮同步
+fm 频率灯
+fm radar 档雷达
+fm receiver 档接收机
+focal distance 焦距
+focal length 焦距
+focal spot 焦点
+focus 焦点
+focus rays 集聚射线
+focused beam laser 聚焦束激光器
+focused ion beam lithography 聚焦离子束光刻
+focusing 聚焦
+focusing by accelerating field 加速场聚焦
+focusing coil 聚焦线圈
+focusing electrode 聚焦电极
+focusing field 聚集场
+focusing magnet 聚焦磁铁
+focusing system 聚集装置;聚焦系统
+focusing unit 聚焦装置
+fog 黑斑
+folded dipole 折合偶极子
+forbidden band 禁带
+forbidden bandwidth 禁带宽度
+forbidden gap 禁带宽度
+forbidden line 禁线
+forbidden transition 禁戒跃迁
+forced air cooling 强制空气冷却
+forced betatron oscillation 受迫自由振荡
+forced circulation 强制循环
+forced vibrations 强制振动
+forced water circulation 强制水循环
+forecast 预告
+forecasting 预报
+foreign atom 异类原子
+foreign material 异物
+foreign substrate 异质衬底
+form 表格
+formant 共振峰
+formants 特盏率
+formative time 建立时间
+former 成形机
+forming 成形
+formular 表格
+forward bias 正偏
+forward bias conduction 正偏压导电
+forward biased current 正向偏压电流
+forward biased diode 正向偏压二极管
+forward biased junction 正向偏压结
+forward channel 前向信道
+forward characteristic 正向特性
+forward current 正向电流
+forward direction 通两向
+forward impedance 正向阻抗
+forward path 前向信道
+forward resistance 正向电阻
+foundry customer 专用集成电路用户
+four bit chip 四位微处理机芯片
+four layer transistor 四层晶体管
+four level laser 四能级激光器
+four phase logic 四相逻辑
+four point probe 四点探针
+four point probe measurement 四探针测量
+four point probe technique 四探针技术
+four pole 四极
+four pole equivalent network 四端网络等效电路
+four wire circuit 四线线路
+four wire line 四线线路
+four wire repeater 四线制增音器
+four wire terminating set 四线二线变设备
+fourier analysis 傅里叶分析
+fourier analyzer 傅里叶分析器
+fourier hologram 傅里叶变换全息图
+fourier inversion 傅里叶反变换
+fourier transform 傅里叶变换
+fourier transformation 傅里叶变换
+fpla 现场可编程序逻辑阵列
+fplf 现场可编程序逻辑集成电路系列
+fracture strength 抗断强度
+fracturer 破裂器
+fragility 脆性
+fragmentation 破碎
+frame 框架;画面
+frame antenna 框形天线
+frame attacher 框架连接器
+frame frequency 帧频
+frame period 帧周期
+frame scan 帧扫描
+frame sweep unit 帧扫描部分
+frame sync pulse 帧同步脉冲
+frame synchronization 帧同步
+frame synchronizer 帧同步机
+frames per second 帧频
+framing 图框配合
+free atmosphere 自由大气
+free carrier 自由载劣
+free electron 自由电子
+free electron laser 自由电子激光器
+free oscillations 自由振动
+free path 自由行程
+free path length 自由程
+free progressive wave 自由行波
+free radical 自由基
+free radical recombination 自由基复合
+free running multivibrator 非稳态多谐振荡器
+free running sweep 自激扫描
+free space 自由空间
+free space wavelength 自由空间波长
+free vibrations 自由振动
+free wave 自由波
+freezing test 耐寒性试验
+frenkel defect 弗伦克尔缺陷
+freon plasma 氟里昂等离子体
+frequency 频率
+frequency assignment 频率分配
+frequency calibration 频率校准
+frequency change 频率变换
+frequency changer 混频管
+frequency characteristic 频率特性
+frequency code 频率码
+frequency code signal 频率码信号
+frequency compensation capacitor 频率补偿电容器
+frequency conversion 变步
+frequency converter 变频器
+frequency converter of laser radiation 激光辐射变频器
+frequency demodulator 频率解调
+frequency deviation 频率偏移
+frequency discrimination 鉴频
+frequency discriminator 鉴频器
+frequency distortion 频率失真
+frequency diversity 频率分集
+frequency diversity radars 频率分集雷达
+frequency divider 分频器
+frequency division 分频
+frequency division date link 频率分割数据传输装置
+frequency division multiplex 频分多路传输
+frequency division multiplexing 分频多路传输
+frequency doubler 倍频器
+frequency drift 频率偏移
+frequency indicator 频率指示器
+frequency jitter 频率颤动
+frequency jumping 频率跃变
+frequency match 频率配合
+frequency modulated light 档光
+frequency modulated radar 档雷达
+frequency modulated transmitter 档发射机
+frequency modulation 频率灯
+frequency modulator 档器
+frequency multiplexing 频分多路
+frequency multiplier 频率倍增器
+frequency protection 频率保护装置
+frequency pulling 频率牵引
+frequency range 频率范围
+frequency record 频率记录扳
+frequency response 频率响应
+frequency response characteristic 频率响应特性
+frequency response curve 频率响应特性
+frequency scanning 频率扫描
+frequency selective limiter 频率选择限制器
+frequency shift 频移
+frequency shift keying 频移灯
+frequency stability 频率稳定度
+frequency stabilization 频率稳定
+frequency standard 频率标准
+frequency sweep 扫频
+frequency swing 频率摆动
+frequency synthesis 频率合成
+frequency synthesizer 频率合成器
+frequency tolerance 容许频偏
+frequency transformation 频率变换
+frequency tripler 频率三倍器
+frequency tuning 频率党
+frequencymeter 频率计
+fresnel region 菲涅耳区
+fringe 条纹
+fringe counter 条纹计数器
+from 制造厂家可编程序只读存储器
+front contact 前触点
+front end circuit 前置电路
+front end design 前端设计
+front porch 前沿
+front surface field 前面场
+front to back ratio 方向性比
+front to back registration 前后对准
+front wafer surface 晶片正面
+frontwall solar cell 前壁太阳能电池
+ft 傅里叶变换
+ftr 功能处理量
+fuel cell 燃料电池
+full custom ic 全定制集成电路
+full duplex 全双工
+full field exposure 整片曝光
+full isolation by porous oxidized silicon 多孔氧化硅完全隔离
+full slice integration 整片集成
+full slice technology 整片工艺
+full track recording 全磁道录音
+full wafer aligner 整片对准器
+full wafer alignment 整片对准
+full wafer chip 整片管芯
+full wafer exposure 整片曝光
+full wafer lithography 整片光刻
+full wafer mask 整片掩模
+full wafer memory 整片式存储器
+full wave rectifier 全波整流
+fully automated network design 全自动网络设计
+fully enclosed air isolation 全封闭式空气绝缘
+fully ionized plasma 完全电离等离子体
+fully reflecting surface 全反射面
+function generator 函数发生器
+function switch 函数开关
+functional array 功能阵列
+functional capability 操总力
+functional check 功能检验
+functional chip 功能芯片
+functional complexity 功能复杂性
+functional design 功能设计
+functional device 功能掐
+functional electronic block 功能电子块
+functional electronics 功能电子学
+functional integrated circuit 功能集成电路
+functional logic 功能逻辑
+functional modularity 功能模块性
+functional partitioning 功能划分
+functional power 操总力
+functional testing 功能测试
+functional throughput rate 功能处理量
+functional unit 功能元件
+functionality 操总力
+fundamental frequency 基频
+fundamental mode 竹动模式
+furnace 炉
+furnace annealing 炉内退火
+furnace boat 炉小舟
+furnace module 炉组件
+furnace profile 炉温度分布图
+furnace slice carrier 炉内晶片处理用盒
+fuse link 熔丝连接环
+fuse link technology 熔丝连接环技术
+fuse logic 熔丝烧断可编程序逻辑阵列
+fuse programmable array logic 熔丝烧断可编程序逻辑阵列
+fuse programmable chip 熔丝烧断可编程序芯片
+fuse resistor 保险丝电阻器
+fused junction 熔融结
+fused junction transistor 合金结晶体管
+fused quartz 熔融石英
+fused silica crucible 熔融石英坩埚
+fuser 熔化炉
+fusible link 熔丝连接环
+fusible link programmable read only memory 熔丝连接可编程序只读存储器
+fusing 熔融
+fusion point 熔点
+fusion reaction 热核反应
+fusion reactor 热核反应堆
+fusion temperature 聚变温度
+fuzziness 不清晰
