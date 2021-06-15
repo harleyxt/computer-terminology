@@ -309,3 +309,184 @@ highly excited level 强激励能级
 highly packed chip 高密度芯片
 hipox 高压氧化
 hissing 啸声
+hj 异质结
+hjbt 异质结双极型晶体管
+hldlc 高级数据链路控制
+hll 高电平逻辑电路
+hlt 停止
+hmos 高性能金属氧化物半导体
+hnil 高抗扰度逻辑
+hold circuit 保持电路
+hold control 同步蝶
+hold in range 同步保持范围
+holder 支持器
+holding circuit 保持电路
+holding control 同步蝶
+holding current 保持电流
+hole 空穴
+hole capture 空穴捕获
+hole conduction 空穴导电
+hole current 空穴电流
+hole density 空穴密度
+hole diffusion length 空穴扩散长度
+hole drift 空穴漂移
+hole electron pair 电子 空穴对
+hole electron recombination 电子 空穴复合
+hole injection 空穴注入
+hole life 空穴寿命
+hole mobility 空穴迁移率
+hole quasi fermi level 空穴准费米能级
+hole semiconductor 空穴半导体
+hole trap 空穴陷阱
+hole trapping 空穴捕获
+hollow 空心的
+hollow anode 空心阳极
+hollow cathode 空心阴极
+hollow cathode discharge tube 空心阴极放电管
+hollow cathode laser 空心阴极激光器
+hologram 全息照相
+hologram area 全息照相面
+hologram field 全息照相场
+hologram information capacity 全息图信息容量
+hologram resolution 全息图分辨率
+hologram storage 全息图储存
+hologram synthesis 全息图合成
+hologram thickness 全息图厚度
+holographic apparatus 全息装置
+holographic cassette television 全息照相盒式电视机
+holographic deta 全息照相数据
+holographic format 全息形式
+holographic information 全息信息
+holographic memory 全息照相存储器
+holographic motion pictures 全息电影
+holographic record 全息记录
+holographic storage 全息照相存储器
+holographic technique 全息技术
+holographic television 全息电视
+holography 全息照相术
+homing 自动导引
+homing device 归航设备
+homing phase 自动寻的阶段
+homing receiver 自动寻的接收机
+homocharge 同号电荷
+homodyne reception 零差接收
+homoepitaxy 同质外延
+homogeneity 同质性
+homogeneous light 单色光
+homojunction 同质结
+hood 遮光罩
+hook switch 挂钩开关
+hop 跳迁
+horizontal aerial 水平天线
+horizontal amplifier 水平扫描信号放大器
+horizontal amplitude 水平幅度
+horizontal antenna 水平天线
+horizontal barrel distortion 水平桶形失真
+horizontal blanking 水平消隐
+horizontal blanking pulse 水平消隐脉冲
+horizontal convergence 水平会聚
+horizontal definition 水平清晰度
+horizontal deflection 水平偏转
+horizontal deflection osillator 水平偏转振荡器
+horizontal deflection unit 水平偏转单元
+horizontal dynamic focusing 水平动态聚焦
+horizontal flyback 水平回描
+horizontal frequency 横扫频率
+horizontal frequency divider 行频分频器
+horizontal output stage 水平扫描输出级
+horizontal parity 横向奇偶性
+horizontal polarization 水平极化
+horizontal reactor 卧式反应器
+horizontal resolution 木平分解力
+horizontal retrace 水平回描
+horizontal sweep 水平扫描
+horizontal synchronization 行同步
+horizontally polarized wave 水平极化波
+horn 喇叭
+horn loudspeaker 喇叭形扬声器
+host lattice 支格
+hot atom 热原子
+hot carrier 热载劣
+hot carrier diode 热载劣二极管
+hot cathode 热阴极
+hot cathode lamp 热阴极管
+hot cathode tube 热阴极管
+hot electron 热电子
+hot electron emission 热电子发射
+hot electron injection 热电子注入
+hot electron transistor 热电子晶体管
+hot forming 热成形
+hot gas bonder 热气喷射钎焊装置
+hot line 热线
+hot loop 热线
+hot plasma 热等离子体
+hot spot 热点
+housing 外壳
+howling 振呜
+hp 高马力
+hpf 高马力
+hsic 高速集成电路
+hsl 高速逻辑
+htl 高阈值逻辑
+hub 集线器集中器
+hue 色调色彩
+hue control 色地制
+hum 咛声
+hum modulation 噪声灯
+humid hydrogen atmosphere 湿氢气氛
+humidity 湿度
+humidity cabinet 湿度箱
+humidity chamber 湿度箱
+humidity meter 湿度计
+humidity test 湿度试验
+hunting 寄生振荡
+hvic 高压集成电路
+hvtem 高压透射电子显微镜
+hvtft 高压薄膜晶体管
+hybrid amplifier 混合放大器
+hybrid approach 混合工艺
+hybrid chip 混合集成电路芯片
+hybrid circuit board 混合集成电路板
+hybrid component 混合集成电路元件
+hybrid design 混合集成电路设计
+hybrid diode transistor logic 混合二极管 晶体管逻辑
+hybrid electromagnetic wave 混合电磁波
+hybrid filter 混合滤波器
+hybrid integrated circuit 混合集成电路
+hybrid junction 混合连接
+hybrid matrix 混合矩阵
+hybrid microassembly 混合集成电路微组装
+hybrid microcircuit 混合微型电路
+hybrid microelectronics 混合微电子学
+hybrid network 混合网络
+hybrid packaging 混合集成电路封装
+hybrid parameter 混合参量
+hybrid photomultiplier 混合光电倍增器
+hybrid resistor 混合电路电阻器
+hybrid screen 混合集成电路丝网漏印板
+hybrid t t 形波导
+hybrid technique 混合工艺
+hybrid television receiver 混合式电视接收机
+hybrid wave 混合型波
+hybridization 混合化
+hydrogen 氢
+hydrogen annealing 氢气退火
+hydrogen atom sensor 氢原子传感器
+hydrogen reduction 氢还原
+hydrogen spectrum 氢光谱
+hydrogen thyratron 氢闸淋
+hydrophobic silica 疏水性二氧化硅
+hydrothermal epitaxy 水热外延
+hygrometer 湿度计
+hyperabrupt junction 超突变结
+hyperabrupt junction varactor 超突变结变容二极管
+hyperabrupt profile 超突变剖面图
+hyperfine line 超精细结构线
+hyperfine splitting 超精细分裂
+hyperfine structure 超精细结构
+hyperfine transition 超精细跃迁
+hyperpure germanium 超纯锗
+hysteresimeter 滞后计
+hysteresimetry 滞后测定法
+hysteresis 滞后现象
+hysteresis loop 磁滞回线
