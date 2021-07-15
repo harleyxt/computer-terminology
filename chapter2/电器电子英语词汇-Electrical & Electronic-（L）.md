@@ -256,3 +256,314 @@ lateral tracking angle error 横向循迹误差角
 lateral transistor 横向晶体管
 lateral transistor structure 横向晶体管结构
 lattice 棚
+lattice constant 晶格常数
+lattice defect 晶格缺陷
+lattice disorder 点阵无序
+lattice distortion 点阵畸变
+lattice imperfection 晶格缺陷
+lattice irregularity 点阵不完整
+lattice matching 点阵匹配
+lattice parameter 晶格常数
+lattice perfection 晶格完整
+lattice pitch 晶格间距
+lattice site 晶格结点
+lattice structure 晶格结构
+lattice vacancy 晶格空位
+lattice vibration quantum 晶格振动量子
+lattice vibrations 点阵振动
+launch 激励
+launching 激励
+lawrence tube 彩色显象管
+layer 层
+layer growth 层生长
+layer thickness 层厚度
+layered dielectric 层状电介质
+layered mask 多层掩膜
+layered medium 分层介质
+layered structure 层次结构
+layout 草图
+layout automation 布图自动化
+layout chart 布局图
+layout data 布置数据
+layout design 布图设计
+layout drawing 布置图
+layout generation 布置图生成
+layout rule 布图设计规则
+layouter 坐标制图器
+lcc 无引线芯片座
+lcd 液晶显示器
+leaching 浸取
+lead 引线;铅
+lead bonding 引线焊接
+lead finish 引线精加工
+lead format 引线形状
+lead former 引线成形机
+lead forming 引线成形
+lead forming machine 引线成形机
+lead frame 引线框
+lead frame assembly system 引线框装配系统
+lead frame attachment 引线框固定
+lead frame pin 引线框脚
+lead identification 引线标志
+lead in groove 录声盘首纹
+lead in wire 引入线
+lead inductance 引线电感
+lead out groove 录声盘尾纹
+lead pattern 引线图案
+lead pin pitch 管脚间距
+lead receptacle 引线插口
+lead spacing 引线间距
+lead wire 引线
+leaded chip carrier 有引线芯片座
+leading out terminal 引出端子
+leadless chip carrier 无引线芯片座
+leadless hermetic package 无引线密封外壳
+leadless package 无引线外壳
+leak 泄漏
+leak detector 测漏器
+leak test 漏泄试验
+leak test plant 检漏设备
+leakage 泄漏
+leakage current 漏泄电流
+leakage flow 漏泄
+leakage radiation 泄漏辐射
+leakage test 密封试验
+leaktight encapsulation 气密封装
+leaky lightguide 漏泄光波导
+leaky package 有漏洞的外壳
+lec 液封直拉法
+lecher line 勒谢尔线
+led 发光二极管
+led display 发光二极管显示器
+leed 低能电子衍射
+lenard rays 勒纳德射线
+length standard 长度标准
+lens 透镜
+lens antenna 透镜天线
+lens aperture 透镜孔径
+level 电平
+level adjustment 电平第
+level density 能级密度
+level lifetime 能级寿命
+level meter 电平指示仪
+level monitoring 电平第
+level of integration 集成度
+level population 能级布居
+level scheme 能级图
+level shift 电平移动
+level shifter 电平移动二极管
+level shifting 电平移动
+level spacing 能级间隔
+level splitting 能级分裂
+level structure 能级结构
+level to level alignment 层间对准
+leveler 校平器
+lexicographic 接字母顺序的
+lic 线性集成电路
+lid seal preform 盖封用塑扭塑
+lid sealing epoxy 盖封用环氧尸
+lidar 光雷达
+lidar echo 光雷达反射信号
+lidar impulse 光雷达脉冲
+lidar tracking 光雷达跟踪
+life aging 寿命试验
+life expectancy 预期寿命
+life span 寿命
+life test 寿命试验
+life time 寿命
+lifetime killer doping 寿命扼杀剂的掺入
+light 光
+light absorption 光吸收
+light activated switch 光敏开关
+light activation 光激化
+light amplification 光放大
+light amplification by stimulated emission of radiation 激光器
+light amplifier 光放大器
+light beam focusing 光束聚焦
+light beam scanning 光束扫描
+light blocking layer 挡光层
+light deflection 光偏转
+light dependent resistor 光敏电阻器
+light detection and ranging 光雷达
+light doping 轻微掺杂
+light emitting diode 发光二极管
+light emitting diode matrix 发光二极管阵列
+light emitting semiconductor device 半导体发光掐
+light focusing 光聚焦
+light frequency modulator 光频灯器
+light gyroscope 光陀螺仪
+light intensity 光强度
+light intensity modulator 光强度灯器
+light modulation 光灯
+light modulator 光灯器
+light optical exposure 光学曝光
+light parametric amplifier 光参量放大器
+light pen 光笔
+light phase modulator 光掂器
+light polarization modulator 光偏振灯器
+light pressure 光压
+light propagation 光传播
+light propagation path 光传播通路
+light quantum 光量子
+light reflectance 光反射系数
+light resistance 光电阻;耐光性
+light sensitive emulsion 光敏乳胶
+light sensor 光敏元件
+light transmission 光透射率
+light transmitting photomask 光透射掩膜
+light triggered thyristor 光触发闸淋
+light valve 光阀
+lightguide 光波导
+lightguide core 光波导心线
+lightguide cross section 光波导横截面
+lightguide damping 光波导衰减
+lightguide fabrication 光波导制造
+lightguide joint 光波导管连接
+lightguide transmission 光波导传输
+lightguide wall 光波导壁
+lighthouse tube 盘封管
+lightly doped drain 轻掺杂漏极
+lightning protection 避雷
+lightning protector 避雷器
+limit of detection 检测极限
+limited space charge accumulation 限制空间电荷聚积
+limited space charge accumulation diode 有限空间电荷积累二极管
+limiter 限幅器
+limiting of frequency band 频带限制
+limiting resolution 极限分解力
+limiting stage 限幅级
+line 行
+line addressable ram 行访问随机存储器
+line amplifier 线路放大
+line broadening 谱线增宽
+line by line scan 逐行扫描
+line center 谱线中心
+line driver 线路澈励器线路驱动器
+line edge blur 导线边缘模糊
+line equipment 线路设备
+line finder 寻线机
+line flyback 水平回描
+line focus 直线性焦点
+line frequency 行频
+line group 通道纽
+line intensity 谱线强度
+line level 线路电平
+line noise 线路噪声
+line of position 位置线
+line pattern 线条图形
+line period 行频周期
+line relay 呼叫继电器
+line repeater 线路增音机
+line scanning 行扫描
+line selector 线路选择器
+line simulator 仿置线
+line spreading 谱线增宽
+line switching 通道转换
+line synchronization 行同步
+line synchronizing pulse 行同步脉冲
+line synchronizing signal 行同步脉冲
+line transformer 线路变压器
+line unit 线路装置
+line widening 谱线增宽
+line wire 线路导线
+linear accelerator 线性加速器
+linear amplification 线性放大
+linear amplifier 线性放大器
+linear array 线性阵列
+linear beam tube 直线电子束管
+linear chip 线性集成电路
+linear circuitry 线性电路
+linear detection 线性检波
+linear detector 线性检波器
+linear distortion 线性畸变
+linear electron accelerator 直线电子加速器
+linear expansion 线性膨胀
+linear frequency modulation 线性档
+linear growth rate 线性生长速率
+linear induction accelerator 线性感应加速器
+linear integrated circuit 线性集成电路
+linear integration 线性集成电路
+linear modulation 线性灯
+linear modulator 线性灯器
+linear passive network 线性无源网络
+linear performance 线性特性
+linear polarized wave 直线极化波
+linear response 线性响应
+linear technology 线性电路技术
+linearity 线性
+linearity control 线性控制
+linearization 线性化
+linearly polarized light 线偏振光
+linewidth 谱线宽度
+linewidth loss 线宽收缩
+linewidth resolution 线宽清晰度
+linewidth shrinkage 线宽收缩
+link 通信信道
+link circuit 链路
+link encryption 链路加密
+link group 中继线群
+link set 中继线群
+link switching 通道转换
+link transmitter 中继发射机
+linkage 连接
+liquid 液体
+liquid chemical processing 液体化学处理
+liquid cooling 液体冷却
+liquid crystal 液晶
+liquid crystal display 液晶显示器
+liquid curve 液相曲线
+liquid diffusion 液体杂质源扩散
+liquid dopant 液体掺杂剂
+liquid encapsulation czochralski process 液封直拉法
+liquid epitaxy 液相外延
+liquid etching technique 液相腐蚀技术
+liquid laser 液体激光器
+liquid level manometer 液面压力计
+liquid metal ion source 液态金属离子源
+liquid nitrogen 液态氮
+liquid phase crystallization 液相结晶
+liquid phase epitaxial growth 液相外延生长
+liquid phase epitaxial layer 液相外延生长层
+liquid phase epitaxial regrowth 液相外延再生长
+liquid phase epitaxy 液相外延
+liquid phase reaction 液相反应
+liquid photoresist 液体光刻胶
+liquid semiconductor 液态半导体
+liquidus 液相线
+liquidus temperature 液线温度
+listener 听众
+listening 截装
+literal 接字母顺序的
+lithium 锂
+litho 光刻
+lithographic equipment 光刻装置
+lithographic imagery 光刻成象
+lithographic mask 光刻掩模
+lithographic process 光刻
+lithographic resolution 光刻清晰度
+lithography 光刻
+lithography machine 光刻机
+lna 低噪声放大器
+load 负载
+load admittance 负载导纳
+load aging 负载老化
+load capacitor 负载电容
+load chamber 装载室
+load characteristic 负载特性曲线
+load circuit 负荷电路
+load curve 负载曲线
+load factor 负载系数
+load impedance 负载阻抗
+load impedance diagram 负载阻抗图
+load line 负载曲线
+load rating 额定负载
+load resistance 负载电阻
+load resistor 负载阻抗
+load transistor 负载晶体管
+loaded lightguide 加载光波导
+loaded resonator 加载共振器
+loader 装载机
+loading 加负载
+loading factor 负荷系数
+loading machine 装载机
+lobe 波瓣
